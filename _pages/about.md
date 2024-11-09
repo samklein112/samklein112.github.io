@@ -1,4 +1,10 @@
-
+---
+permalink: /
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
 ### Education Background
 
 **Sep 2021 - Jun 2025**  
