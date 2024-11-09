@@ -21,7 +21,7 @@ repository               : "https://samklein112.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "Bowen Li.jpg"
+  avatar           : "Bowen Li.png"
   name             : "Bowen Li"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
