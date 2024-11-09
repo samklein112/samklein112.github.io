@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Resume"
+title: ""
 author_profile: true
 redirect_from: 
   - /about/
@@ -15,13 +15,11 @@ Major: Public Relations and Advertising - Bachelor of Arts (Hon) &nbsp;&nbsp;&nb
 **Hong Kong Baptist University**  
 Extended Study Programme (HKBU × UIC) &nbsp;&nbsp;&nbsp; **Score:** 3.56/4
 
----
 
 # Publication
 **Bowen Li, Corresponding Author**, *Schema Theory in Personal Growth, Culture, and Social Media: A Literature Review* (DOI: [10.2991/978-2-38476-277-4_25](https://doi.org/10.2991/978-2-38476-277-4_25))  
 - Published by the 2024 10th International Conference on Humanities and Social Science Research (ISSN: 2352-5398) on 2 September 2024  
 
----
 
 # Research Project
 **Sep 2022 - Nov 2022**  
@@ -30,7 +28,6 @@ Extended Study Programme (HKBU × UIC) &nbsp;&nbsp;&nbsp; **Score:** 3.56/4
 - Collated and assembled constructive information for the research project  
 - Composed and presented the literature review section of the research report  
 
----
 
 # Professional Experience
 **Jun 2024 - Sep 2024**  
@@ -40,15 +37,11 @@ Extended Study Programme (HKBU × UIC) &nbsp;&nbsp;&nbsp; **Score:** 3.56/4
 - Arranged schedules to ensure liaison between parties involved and communicated recording requirements  
 - Measured KOL performance and reported to the clients  
 - Engaged in media and customer relationship management  
-
----
-
 **Jun 2023 - Aug 2023**  
 **Market Research Intern**, H’brill Marketing & Consulting Co., Ltd.  
 - Assisted with neatening files, analyzing data, creating presentation slides, and making presentations  
 - Contributed to a harmonious working environment  
 
----
 
 # Extracurricular Activities
 **Sep 2021 - Present**  
@@ -58,14 +51,12 @@ Extended Study Programme (HKBU × UIC) &nbsp;&nbsp;&nbsp; **Score:** 3.56/4
   - Writing press releases and moderating publication content  
   - Collaborating with UIC’s official WeChat account to disseminate information  
 
----
 
 # Awards and Honours
 - **Nov 2023** First Class Award for the Academic Year 2022-2023, UIC  
 - **Nov 2022** First Class Award for the Academic Year 2021-2022, UIC  
 - **May 2022** Third Prize in the 6th UIC MET English Speaking Contest  
 
----
 
 # Skills
 - SPSS, Python, Microsoft Office, etc.  
