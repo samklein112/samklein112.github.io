@@ -24,11 +24,7 @@ author:
   avatar           : "photo_1.png"
   name             : "Bowen Li"
   pronouns         : # example: "she/her"  
-  bio              : "|Research Interest:
-  · Schema Theory
-  · Corporate Social Responsibility (CSR)
-  · Natural Language Processing (NLP)"
-
+  bio              : "Research Interest:\n· Corporate Social Responsibility\n· Schema Theory\n· Natural Language Processing"
   location         : "Zhuhai, Guangdong"
   employer         : "United International College"
   uri              : # URL
