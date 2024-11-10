@@ -17,10 +17,16 @@ Major: Public Relations and Advertising - Bachelor of Arts (Hon) &nbsp;&nbsp;&nb
 Extended Study Programme (HKBU × UIC) &nbsp;&nbsp;&nbsp; **Score:** 3.56/4
 
 
+
+
+
 # Publication
 ---
 **Bowen Li, Corresponding Author**, *Schema Theory in Personal Growth, Culture, and Social Media: A Literature Review* (DOI: [10.2991/978-2-38476-277-4_25](https://doi.org/10.2991/978-2-38476-277-4_25))  
 - Published by the 2024 10th International Conference on Humanities and Social Science Research (ISSN: 2352-5398) on 2 September 2024  
+
+
+
 
 
 # Research Project
@@ -30,6 +36,9 @@ Extended Study Programme (HKBU × UIC) &nbsp;&nbsp;&nbsp; **Score:** 3.56/4
 - Examined the impact of live stream marketing on consumers' snack purchase intention  
 - Collated and assembled constructive information for the research project  
 - Composed and presented the literature review section of the research report  
+
+
+
 
 
 # Professional Experience
@@ -49,6 +58,8 @@ Extended Study Programme (HKBU × UIC) &nbsp;&nbsp;&nbsp; **Score:** 3.56/4
 
 
 
+
+
 # Extracurricular Activities
 ---
 **Sep 2021 - Present**  
@@ -59,6 +70,9 @@ Extended Study Programme (HKBU × UIC) &nbsp;&nbsp;&nbsp; **Score:** 3.56/4
   - Collaborating with UIC’s official WeChat account to disseminate information  
 
 
+
+
+
 # Awards and Honours
 ---
 - **Nov 2023** First Class Award for the Academic Year 2022-2023, UIC  
@@ -66,8 +80,11 @@ Extended Study Programme (HKBU × UIC) &nbsp;&nbsp;&nbsp; **Score:** 3.56/4
 - **May 2022** Third Prize in the 6th UIC MET English Speaking Contest  
 
 
+
+
+
 # Skills
 ---
 - SPSS, Python, Microsoft Office, etc.  
-- IELTS 7.0 (Listening: 7.5; Speaking: 6.0; Reading: 8.0; Writing: 6.5)  
+- IELTS 7.0 (Listening: 7.5; Reading: 8.0; Writing: 6.5; Speaking: 6.0)  
 - Basic Korean and French  
