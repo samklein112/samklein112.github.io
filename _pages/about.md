@@ -41,10 +41,12 @@ Extended Study Programme (HKBU × UIC) &nbsp;&nbsp;&nbsp; **Score:** 3.56/4
 - Arranged schedules to ensure liaison between parties involved and communicated recording requirements  
 - Measured KOL performance and reported to the clients  
 - Engaged in media and customer relationship management  
+
 **Jun 2023 - Aug 2023**  
 **Market Research Intern**, H’brill Marketing & Consulting Co., Ltd.  
 - Assisted with neatening files, analyzing data, creating presentation slides, and making presentations  
 - Contributed to a harmonious working environment  
+
 
 
 # Extracurricular Activities
