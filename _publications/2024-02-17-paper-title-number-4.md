@@ -1,5 +1,5 @@
 ---
-title: "Paper Title Number 4"
+title: "Schema Theory in Personal Growth, Culture, and Social Media: A Literature Review"
 collection: publications
 category: conferences
 permalink: /publication/2024-02-17-paper-title-number-4
