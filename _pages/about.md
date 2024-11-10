@@ -22,6 +22,11 @@ Extended Study Programme (HKBU × UIC) &nbsp;&nbsp;&nbsp; **Score:** 3.56/4
 **Bowen Li, Corresponding Author**, *Schema Theory in Personal Growth, Culture, and Social Media: A Literature Review* (DOI: [10.2991/978-2-38476-277-4_25](https://doi.org/10.2991/978-2-38476-277-4_25))  
 - Published by the 2024 10th International Conference on Humanities and Social Science Research (ISSN: 2352-5398) on 2 September 2024  
 
+**Bowen Li (Corresponding Author), Jiahua Liu, Qianbo Tian, Zhiyuan Yue**, *Localizing Corporate Volunteering in China: A Study on Communication Strategies from Chinese CSR Leading Corporates' Reports for Multinational Enterprises in Belt and Road Countries*  
+- **Article Type:** Extended Abstract  
+- **Conference:** 75th Annual International Communication Association Conference  
+- **Status:** In Progress
+
 
 # Research Project
 ---
