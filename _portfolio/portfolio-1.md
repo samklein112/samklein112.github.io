@@ -12,7 +12,7 @@ This project explores the application of sentiment analysis on danmaku (bullet-s
       <img src="/images/YOLO_movie_poster.png" alt="Word Cloud" width="60%">
   </div>
 
-#### Key Highlights:
+
 - **Sentiment Distribution**: The histogram below demonstrates the frequency of sentiment scores, revealing patterns in user sentiments.
   
   <div style="text-align: center;">
