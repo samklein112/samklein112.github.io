@@ -72,6 +72,6 @@ Extended Study Programme (HKBU × UIC) &nbsp;&nbsp;&nbsp; **Score:** 3.56/4
 
 # Skills
 ---
-- SPSS, Python, Microsoft Office, etc.  
-- IELTS 7.0 (Listening: 7.5; Reading: 8.0; Writing: 6.5; Speaking: 6.0)  
-- Basic Korean and French  
+- **Software:** SPSS, Microsoft Office 
+- **Programming Languages:** Python, LaTeX, HTML, CSS
+- **Languages:** IELTS 7.0 (Listening: 7.5; Reading: 8.0; Writing: 6.5; Speaking: 6.0), Basic Korean and French  
