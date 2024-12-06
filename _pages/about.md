@@ -65,10 +65,10 @@ Extended Study Programme (HKBU × UIC) &nbsp;&nbsp;&nbsp; **Score:** 3.56/4
 
 # Awards and Honours
 ---
-- **Dec 2024** Second Class Award for the Academic Year 2023-2024, UIC  
-- **Nov 2024** Prof. Xu Jialu Whole Person Education Award, UIC  
-- **Nov 2023** First Class Award for the Academic Year 2022-2023, UIC  
-- **Nov 2022** First Class Award for the Academic Year 2021-2022, UIC  
+- **Dec 2024** **(¥3,000)** Second Class Award for the Academic Year 2023-2024, UIC
+- **Nov 2024** **(¥6,000)** Prof. Xu Jialu Whole Person Education Award, UIC
+- **Nov 2023** **(¥6,000)** First Class Award for the Academic Year 2022-2023, UIC
+- **Nov 2022** **(¥6,000)** First Class Award for the Academic Year 2021-2022, UIC
 
 
 # Skills
