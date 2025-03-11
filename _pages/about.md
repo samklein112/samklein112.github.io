@@ -11,10 +11,15 @@ redirect_from:
 ---
 **Sep 2021 - Jun 2025**  
 **Beijing Normal University-Hong Kong Baptist University United International College**  
-Major: Public Relations and Advertising - Bachelor of Arts (Hon) &nbsp;&nbsp;&nbsp; **CGPA:** 3.73/4  
+Major: Public Relations and Advertising - Bachelor of Arts (Hon) &nbsp;&nbsp;&nbsp; **cGPA:** 3.73/4  
+
 **Sep 2023 - Dec 2023**  
 **Hong Kong Baptist University**  
-Extended Study Programme (HKBU × UIC) &nbsp;&nbsp;&nbsp; **Score:** 3.56/4
+Extended Study Programme (HKBU × UIC) &nbsp;&nbsp;&nbsp; **sGPA:** 3.56/4
+
+**Sep 2025 - Jun 2026**  
+**The Hong Kong Polytechnic University**  
+Major: Generative AI and the Humanities (Language and Communication) - Master of Science (Hon) &nbsp;&nbsp;&nbsp; **cGPA:** /4  
 
 
 # Publication
