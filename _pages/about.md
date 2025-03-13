@@ -10,12 +10,12 @@ redirect_from:
 # Education Background
 ---
 **Sep 2021 - Jun 2025**  
-**Beijing Normal University-Hong Kong Baptist University United International College**  
+**Beijing Normal-Hong Kong Baptist University (BNBU)**  
 Major: Public Relations and Advertising - Bachelor of Arts (Hon) &nbsp;&nbsp;&nbsp; **cGPA:** 3.73/4  
 
 **Sep 2023 - Dec 2023**  
 **Hong Kong Baptist University**  
-Extended Study Programme (HKBU × UIC) &nbsp;&nbsp;&nbsp; **sGPA:** 3.56/4
+Extended Study Programme (HKBU × BNBU) &nbsp;&nbsp;&nbsp; **sGPA:** 3.56/4
 
 **Sep 2025 - Jun 2026**  
 **The Hong Kong Polytechnic University**  
@@ -56,19 +56,19 @@ Major: Generative AI and the Humanities (Language and Communication) - Master of
 # Extracurricular Activities
 ---
 **Sep 2021 - Present**  
-**Captain**, Chinese Health Qigong Team, UIC  
+**Captain**, Chinese Health Qigong Team, BNBU  
 - Responsible for the overall management of the team and devising training plans  
 - Took charge of the team’s media outreach by:  
   - Writing press releases and moderating publication content  
-  - Collaborating with UIC’s official WeChat account to disseminate information  
+  - Collaborating with BNBU’s official WeChat account to disseminate information  
 
 
 # Awards and Honours
 ---
-- **Dec 2024** **(¥3,000)** Second Class Award for the Academic Year 2023-2024, UIC
-- **Nov 2024** **(¥6,000)** Prof. Xu Jialu Whole Person Education Award, UIC
-- **Nov 2023** **(¥6,000)** First Class Award for the Academic Year 2022-2023, UIC
-- **Nov 2022** **(¥6,000)** First Class Award for the Academic Year 2021-2022, UIC
+- **Dec 2024** **(¥3,000)** Second Class Award for the Academic Year 2023-2024, BNBU
+- **Nov 2024** **(¥6,000)** Prof. Xu Jialu Whole Person Education Award, BNBU
+- **Nov 2023** **(¥6,000)** First Class Award for the Academic Year 2022-2023, BNBU
+- **Nov 2022** **(¥6,000)** First Class Award for the Academic Year 2021-2022, BNBU
 
 
 # Skills
