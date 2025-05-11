@@ -55,7 +55,7 @@ Major: Generative AI and the Humanities (Language and Communication) - Master of
 
 # Extracurricular Activities
 ---
-**Sep 2021 - Present**  
+**Sep 2021 - Jun 2024**  
 **Captain**, Chinese Health Qigong Team, BNBU  
 - Responsible for the overall management of the team and devising training plans  
 - Took charge of the team’s media outreach by:  
