@@ -11,7 +11,7 @@ redirect_from:
 ---
 **Sep 2021 - Jun 2025**  
 **Beijing Normal-Hong Kong Baptist University (BNBU)**  
-Major: Public Relations and Advertising - Bachelor of Arts (Hon) &nbsp;&nbsp;&nbsp; **cGPA:** 3.73/4  
+Major: Public Relations and Advertising - Bachelor of Arts (Hon) &nbsp;&nbsp;&nbsp; **cGPA:** 3.53/4  
 
 **Sep 2023 - Dec 2023**  
 **Hong Kong Baptist University**  
