@@ -19,7 +19,7 @@ Extended Study Programme (HKBU × BNBU) &nbsp;&nbsp;&nbsp; **sGPA:** 3.56/4
 
 **Sep 2025 - Jun 2026**  
 **The Hong Kong Polytechnic University**  
-Major: Generative AI and the Humanities (Language and Communication) - Master of Science (Hon) &nbsp;&nbsp;&nbsp; **cGPA:** /4  
+Major: Generative AI and the Humanities (Language and Communication) - Master of Science (Hon) &nbsp;&nbsp;&nbsp; **cGPA:** /4.3  
 
 
 # Publication
